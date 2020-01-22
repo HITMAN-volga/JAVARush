@@ -1,0 +1,2 @@
+# JAVARush
+My JAVA education
